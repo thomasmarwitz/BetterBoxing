@@ -7,6 +7,8 @@ Lennart Großkreutz, Thomas Marwitz, Paul Müller, Niklas Rondot, Timo Weberruß
 ## Prerequisites
 - add Allow Cors (Chrome) or Cors Everywhere (Firefox)
 
+## Install
+Take a look at the README in each subfolder
 ## Run the app
 - Run Frontend: run `npm start` inside `visualizer/`
 - Run Bin Packing Backend: `java -jar api-2.7.0` inside `bin-packing-backend/api/target` or `bin-packing-backend/out`
