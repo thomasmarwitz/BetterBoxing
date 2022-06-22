@@ -1,0 +1,114 @@
+{
+    "success": true,
+    "packedBins": [
+        {
+            "bin": {
+                "id": "abc",
+                "x": 500,
+                "y": 300,
+                "z": 400,
+                "maxWeight": 1000,
+                "emptyWeight": 1,
+                "count": 1
+            },
+            "content": [
+                {
+                    "item": {
+                        "id": "boxA-3",
+                        "x": 10,
+                        "y": 30,
+                        "z": 50,
+                        "weight": 1,
+                        "count": 3
+                    },
+                    "x": 0,
+                    "xEnd": 9,
+                    "y": 0,
+                    "yEnd": 29,
+                    "z": 0,
+                    "zEnd": 49
+                },
+                {
+                    "item": {
+                        "id": "boxA-3",
+                        "x": 10,
+                        "y": 30,
+                        "z": 50,
+                        "weight": 1,
+                        "count": 3
+                    },
+                    "x": 0,
+                    "xEnd": 9,
+                    "y": 0,
+                    "yEnd": 29,
+                    "z": 50,
+                    "zEnd": 99
+                },
+                {
+                    "item": {
+                        "id": "boxA-3",
+                        "x": 10,
+                        "y": 30,
+                        "z": 50,
+                        "weight": 1,
+                        "count": 3
+                    },
+                    "x": 0,
+                    "xEnd": 9,
+                    "y": 0,
+                    "yEnd": 29,
+                    "z": 100,
+                    "zEnd": 149
+                },
+                {
+                    "item": {
+                        "id": "boxB-2",
+                        "x": 20,
+                        "y": 40,
+                        "z": 10,
+                        "weight": 1,
+                        "count": 2
+                    },
+                    "x": 0,
+                    "xEnd": 19,
+                    "y": 0,
+                    "yEnd": 39,
+                    "z": 150,
+                    "zEnd": 159
+                },
+                {
+                    "item": {
+                        "id": "boxB-2",
+                        "x": 20,
+                        "y": 40,
+                        "z": 10,
+                        "weight": 1,
+                        "count": 2
+                    },
+                    "x": 0,
+                    "xEnd": 19,
+                    "y": 0,
+                    "yEnd": 39,
+                    "z": 160,
+                    "zEnd": 169
+                },
+                {
+                    "item": {
+                        "id": "boxC-1",
+                        "x": 200,
+                        "y": 100,
+                        "z": 100,
+                        "weight": 1,
+                        "count": 1
+                    },
+                    "x": 0,
+                    "xEnd": 99,
+                    "y": 0,
+                    "yEnd": 99,
+                    "z": 170,
+                    "zEnd": 369
+                }
+            ]
+        }
+    ]
+}

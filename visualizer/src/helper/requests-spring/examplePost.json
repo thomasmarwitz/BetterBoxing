@@ -1,0 +1,47 @@
+
+{
+    "bins": [
+            {
+                "id": "abc",
+                "x": 500,
+                "y": 300,
+                "z": 400,
+                "maxWeight": 1000,
+                "emptyWeight": 1,
+                "count": 1
+            }
+
+    ],
+
+    "algorithm": "largestareafitfirst",
+    
+    "binLimit": 1,
+
+    "boxes": [
+        {
+            "id": "boxA-3",
+            "x": 10,
+            "y": 30,
+            "z": 50,
+            "weight": 1,
+            "count": 3
+        },
+        {
+            "id": "boxB-2",
+            "x": 20,
+            "y": 40,
+            "z": 10,
+            "weight": 1,
+            "count": 2
+        },
+        {
+            "id": "boxC-1",
+            "x": 200,
+            "y": 100,
+            "z": 100,
+            "weight": 1,
+            "count": 1
+        }
+
+    ]   
+}
