@@ -1,6 +1,9 @@
 # Bin Packing App
 
 Created as result of a 1,5 day sprint at the Hackathon event hosted by the WBK insitute (KIT).
+This repository contains functionality to automatically scan, measure and optimize the packing
+arrangement of multiple smaller boxes in one bigger box.
+This greatly improves the space- and thereby the economic efficiency of packaging.
 
 ## Contributors
 
